@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple FlashLight</string>
+    <string name="button_on">Turn on</string>
+    <string name="button_off">Turn off</string>
+    <string name="flashlight_toggle">Flashlight</string>
+    <string name="lang_en">en</string>
+    <string name="lang_ro">ro</string>
+    <string name="welcome_message">Welcome!</string>
+    <string name="welcome_undertext">Nice to see you need a flashlight!</string>
+</resources>
